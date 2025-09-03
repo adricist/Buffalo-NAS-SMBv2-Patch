@@ -56,3 +56,5 @@ No need to enable SMBv1. Your NAS now negotiates SMB2 securely.
 
 🙌 Credit & Thanks
 This solution was engineered with the help of Microsoft Copilot, who guided me through every step—from shell injection to Samba patching. If you're trying to keep legacy hardware alive without compromising security, this method works.
+
+![Tested on LS-QVL/R5](https://img.shields.io/badge/Tested-LS--QVL%2FR5-green)
